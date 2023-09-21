@@ -1,0 +1,10 @@
+{
+  "browsers": [
+    [
+      {
+        "type": "chrome",
+        "version": "latest"
+      }
+    ]
+  ]
+}
